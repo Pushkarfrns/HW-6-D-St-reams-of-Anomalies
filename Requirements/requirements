@@ -1,0 +1,14 @@
+The following tools, frameworks and libraries required to reproduce the work flow
+
+1. Anaconda Navigator - Anaconda Navigator is a desktop graphical user interface (GUI) included in Anaconda® distribution that allows you to launch applications and easily manage conda packages, environments and channels without using command-line                             commands. 
+
+2. jupyter notebook - The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical                         simulation, statistical modeling, data visualization, machine learning, and much more.
+
+3. Ms- Excel 2016 - Microsoft Excel is a spreadsheet developed by Microsoft for Windows, macOS, Android and iOS.
+
+4. pandas - pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language. 
+
+5. numpy - NumPy is the fundamental package for scientific computing with Python
+
+
+src(reference): google.com
